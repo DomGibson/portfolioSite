@@ -154,7 +154,6 @@ h3 {
     overflow: auto; /* Enable scroll if needed */
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-    border-radius: 20px;
   }
   
   /* Modal Content/Box */
