@@ -10,6 +10,9 @@ const span = document.getElementsByClassName("close")[0];
 const submitButton = document.getElementById("submit-button")
 
 
+console.log("I Am (Not) Watching You...")
+
+
 // When the user clicks on the button, open the modal
 btn.onclick = function() {
   modal.style.display = "block";
